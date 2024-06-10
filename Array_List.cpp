@@ -89,3 +89,5 @@ int main() {
 	print_list(&list);// 0번째 항목 삭제
 	return 0;
 }
+
+//GIT HUB TEST용
